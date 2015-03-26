@@ -77,6 +77,8 @@ or -> Just google it!
   * typing.io (free)
   * typfu (pay)
 
+  
+
 #####From Lori Culberson:
 
 1. Ask for help. Do not stay stuck for longer than 45 minutes. There is no shame in getting help.
