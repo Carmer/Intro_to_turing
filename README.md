@@ -44,11 +44,12 @@ or -> Just google it!
 ##Advice and suggestions for Module 1
 
 ####from Lori Culberson:
+
 1.Ask for help. Do not stay stuck for longer than 45 minutes. There is no shame in getting help.
-1.Have several mentors.
-1.Get at least 7 hours of sleep
-1.Ask questions in class when you are confused.
-1.Code school presents information and it is up to you to delve into it deeper. Teachers will not spoon feed you everything you need to know. It’s up to you to 1.practice what they present.
-1.You’re a family. Help each other. You are only as strong as your weakest teammate (especially when you get paired with them to complete a project.)
-1.Ask instructors to record their lectures so you can review it later
-1.Attend the Meet-Ups
+2.Have several mentors.
+3.Get at least 7 hours of sleep
+4.Ask questions in class when you are confused.
+5.Code school presents information and it is up to you to delve into it deeper. Teachers will not spoon feed you everything you need to know. It’s up to you to practice what they present.
+7.You’re a family. Help each other. You are only as strong as your weakest teammate (especially when you get paired with them to complete a project.)
+8.Ask instructors to record their lectures so you can review it later
+9.Attend the Meet-Ups
