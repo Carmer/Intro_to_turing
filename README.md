@@ -36,12 +36,46 @@ How to navigate with the terminal.
 or -> Just google it!
 
 
-##Common ruby terms and definitions
+##Common ruby terms, definitions, and other things
 
-##Best practices and worflow efficiency
+* Let's get to this at the end if we have time. You'll have plenty of time with Ruby in the coming weeks.
+
+* People in the Ruby/Rails community
+
+> Yukihiro Matsumoto
+> Sandi Metz
+> DHH
+> Chad Fowler
+> Ben Orenstein
+> Yehuda Katz
+> Sean Griffin
+> Aaron Patterson, aka Tenderlove
+
+
+##Best practices and workflow efficiency
+
+* Use Pomodoro timers
+* Learn shortcuts and quick-keys
+* Learn to use your machine without a mouse
+* Find and use applications that improve workflow.
+  1. Divvy / Spectacle
+  2. Pomodoro one / or any Pomodoro timer
+  3. Ruby Docs / StackOverflow
+
+####Mac Key Symbols:
+
 ![Alt text](http://www.photokaboom.com/images/tips/how_to_use_a_Mac/224px-Mac_keyboard_symbols.jpg)
 
 ##Advice and suggestions for Module 1
+
+* Take advantage of Fridays
+* Take good care of yourself - physically and mentally
+* Go to every class everyday
+* Participate in class - ask questions. Even "stupid" questions are good questions.
+* The Imposter Syndrome - YOU **DO** BELONG HERE! http://en.wikipedia.org/wiki/Impostor_syndrome
+* Practice your typing skills
+  * typing.io (free)
+  * typfu (pay)
 
 ####From Lori Culberson:
 
