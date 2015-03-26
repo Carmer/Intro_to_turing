@@ -20,18 +20,18 @@
 Why use the command line/terminal?
 How to navigate with the terminal.
 
->Installing pry:
->>http://www.sitepoint.com/rubyists-time-pry-irb/
+*Installing pry:
+  * http://www.sitepoint.com/rubyists-time-pry-irb/
 
 ###Resources:
 >Free Engineer's tutorial. A little dated, but good.
->>http://freeengineer.org/learnUNIXin10minutes.html
+  * http://freeengineer.org/learnUNIXin10minutes.html
 
 >Git-Tower's Command Line Cheat Sheet. Easy to read/understand
->>http://www.git-tower.com/blog/command-line-cheat-sheet/
+  * http://www.git-tower.com/blog/command-line-cheat-sheet/
 
 >Unix Toolbox. Advanced commands. Stuff you may never use or need.
->>http://cb.vu/unixtoolbox.xhtml
+  * http://cb.vu/unixtoolbox.xhtml
 
 or -> Just google it!
 
