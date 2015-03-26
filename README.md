@@ -42,14 +42,14 @@ or -> Just google it!
 
 * People in the Ruby/Rails community
 
-> Yukihiro Matsumoto
-> Sandi Metz
-> DHH
-> Chad Fowler
-> Ben Orenstein
-> Yehuda Katz
-> Sean Griffin
-> Aaron Patterson, aka Tenderlove
+> * Yukihiro Matsumoto
+> * Sandi Metz
+> * DHH
+> * Chad Fowler
+> * Ben Orenstein
+> * Yehuda Katz
+> * Sean Griffin
+> * Aaron Patterson, aka Tenderlove
 
 
 ##Best practices and workflow efficiency
