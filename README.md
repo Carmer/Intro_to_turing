@@ -3,12 +3,12 @@
 ##What we'll be doing today:
 
 1.Command line introduction:
-  >making directories and files.
-  >Basic navigation.
-  >Using pry/irb/ri.
+  * making directories and files.
+  * Basic navigation.
+  * Using pry/irb/ri.
 
 2.Common ruby terms and definitions
-  >An introduction to ruby culture
+  * An introduction to ruby culture
 
 3.Best practices and workflow efficiencies
 
