@@ -25,7 +25,7 @@ How to navigate with the terminal.
 >Free Engineer's tutorial. A little dated, but good.
 http://freeengineer.org/learnUNIXin10minutes.html
 
->Git-Tower's Command Line Cheat Sheet. Easy to read/understand
+>Git-Tower's Command Line Cheat Sheet. Easy to read/understand \n
 http://www.git-tower.com/blog/command-line-cheat-sheet/
 
 >Unix Toolbox. Advanced commands. Stuff you may never use or need.
