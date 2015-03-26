@@ -3,12 +3,12 @@
 ##What we'll be doing today:
 
 1.Command line introduction:
-        -making directories and files.
-        -basic navigation
-        -pry/irb/ri
+        1making directories and files.
+        1basic navigation
+        1pry/irb/ri
 
 2.Common ruby terms and definitions
-        -an introduction to ruby culture
+        1an introduction to ruby culture
 
 3.Best practices and workflow efficiencies
 
@@ -31,7 +31,7 @@ http://www.git-tower.com/blog/command-line-cheat-sheet/
 >Unix Toolbox. Advanced commands. Stuff you may never use or need.
 http://cb.vu/unixtoolbox.xhtml
 
-Just google it!
+or -> Just google it!
 
 
 ##Common ruby terms and definitions
