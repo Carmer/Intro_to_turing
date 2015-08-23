@@ -1,4 +1,4 @@
-#Intro to Turing - Welcome to Turing 1503
+#Welcome to Turing
 
 ##What we'll be doing today:
 
@@ -77,7 +77,7 @@ or -> Just google it!
   * typing.io (free)
   * typfu (pay)
 
-  
+
 
 #####From Lori Culberson:
 
